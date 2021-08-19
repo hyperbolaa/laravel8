@@ -6,7 +6,6 @@ use Illuminate\View\Component;
 
 class Alert extends Component
 {
-
     /**
      * The alert message.
      *
