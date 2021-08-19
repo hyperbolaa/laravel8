@@ -11,7 +11,8 @@ class HomeController extends Controller
         echo 33;
     }
 
-    public function hello(){
+    public function hello()
+    {
         echo 44;
     }
 }
